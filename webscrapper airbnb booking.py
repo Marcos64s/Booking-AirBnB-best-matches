@@ -24,9 +24,7 @@ subject = 'Super Hiper Mega Party em Budapeste'
 
 urlair = 'https://www.airbnb.pt/s/Budapeste--Hungria/homes?adults=6&place_id=ChIJyc_U0TTDQUcRYBEeDCnEAAQ&checkin=2021-10-02&checkout=2021-10-05'
 urlboo = 'https://www.booking.com/searchresults.pt-pt.html?aid=376389&label=Hoteis-dHPE1sykMRe*x3Pll8k6awS267724756065%3Apl%3Ata%3Ap1%3Ap22.563.000%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp1011727%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YfNeh-lbHkPZfvshG1kRNbU&sid=38151541cdbfdfb999b6a6826f32d3b2&sb=1&sb_lp=1&src=index&src_elem=sb&error_url=https%3A%2F%2Fwww.booking.com%2Findex.pt-pt.html%3Faid%3D376389%3Blabel%3DHoteis-dHPE1sykMRe%252Ax3Pll8k6awS267724756065%253Apl%253Ata%253Ap1%253Ap22.563.000%253Aac%253Aap%253Aneg%253Afi%253Atikwd-65526620%253Alp1011727%253Ali%253Adec%253Adm%253Appccp%253DUmFuZG9tSVYkc2RlIyh9YfNeh-lbHkPZfvshG1kRNbU%3Bsid%3D38151541cdbfdfb999b6a6826f32d3b2%3Bsb_price_type%3Dtotal%26%3B&ss=Budapeste%2C+Pest%2C+Hungria&is_ski_area=0&ssne=Portim%C3%A3o&ssne_untouched=Portim%C3%A3o&checkin_year=2021&checkin_month=10&checkin_monthday=2&checkout_year=2021&checkout_month=10&checkout_monthday=5&group_adults=8&group_children=0&no_rooms=1&b_h4u_keep_filters=&from_sf=1&ac_position=0&ac_langcode=pt&ac_click_type=b&dest_id=-850553&dest_type=city&iata=BUD&place_id_lat=47.499542&place_id_lon=19.046241&search_pageview_id=66244a58cecc0061&search_selected=true&ss_raw=Budapeste'
-to = ['danielafreal@hotmail.com', 'biap0903@gmail.com', 'marta.goncalves.ribeiro@gmail.com', 'costa.pedro.goncalves@gmail.com',
-        'joel.costa111@gmail.com', 'mar.sofia.sousa@gmail.com', 'marcos.mendes@hotmail.com', 'timoteo.pinto15@gmail.com']
-# to = ['marcos.mendes@hotmail.com']
+to = ['emails@gmail.com']
 
 def remove_repeated(test_list):
     for i in test_list:
